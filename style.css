@@ -27,3 +27,5 @@ img {
     margin-bottom: 20px;
 }
 
+.loading { color: #666; font-style: italic; }
+.error { color: #d32f2f; font-weight: 600; }
